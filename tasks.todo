@@ -1,0 +1,27 @@
+✔ importar o express @done(22-08-16 10:27)
+✔ Criar uma aplicacao express (const app) @done(22-08-16 10:28)
+✔ criar uma rota que responda ao cliente @done(22-08-16 10:28)
+✔ rodar a aplicacao (app.listen) @done(22-08-16 10:28)
+✔ criar rota get para '/about' que vai retornar um outro texto @done(22-08-16 10:49)
+✔ Importar express para router @done(22-08-16 10:56)
+✔ criar o roteador @done(22-08-16 10:57)
+✔ definir rotas @done(22-08-16 11:00)
+✔ exportar roteador @done(22-08-16 11:04)
+✔ importar roteador @done(22-08-16 11:06)
+✔ usar roteador @done(22-08-16 20:59)
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
+☐ 
